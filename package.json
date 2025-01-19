@@ -1,7 +1,7 @@
 {
   "name": "hairday",
   "description": "Aplicação web para agendamento de corte de cabelo",
-  "author": "Giovani de Oliveira",
+  "author": "Raí",
   "scripts": {
     "server": "json-server --watch server.json --port 3002",
     "build": "webpack",
